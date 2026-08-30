@@ -1,0 +1,6 @@
+{
+  "name": "FreshMarket",
+  "description": "Order fresh organic groceries, daily vegetables, sweet fruits, and artisan cakes online with instant eSewa QR payment and fast doorstep delivery by Ranjit Gautam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
